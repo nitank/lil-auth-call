@@ -1,7 +1,7 @@
 {
   "name": "lil-auth-call",
   "version": "1.0.0",
-  "description": "auth call resuable method for lil",
+  "description": "auth call reusable method for lil",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
