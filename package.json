@@ -1,0 +1,19 @@
+{
+  "name": "lil-auth-call",
+  "version": "1.0.0",
+  "description": "auth call resuable method for lil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lil-auth",
+    "lil-auth-call",
+    "auth-call"
+  ],
+  "author": "Nitank Aggarwal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
